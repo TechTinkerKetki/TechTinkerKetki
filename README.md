@@ -1,8 +1,9 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Neonderthaw&size=40&duration=2500&pause=1200&color=FF00FF&center=true&vCenter=true&width=900&lines=Hi+this+is+Ketki+Patil;Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=34&duration=2500&pause=1200&color=FFE74A&center=true&vCenter=true&width=900&lines=Hi+this+is+Ketki+Patil;Welcome+to+my+GitHub!)
 
 </div>
+
 
 
 
