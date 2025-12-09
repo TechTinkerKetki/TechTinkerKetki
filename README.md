@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=F75C7E&center=true&vCenter=true&lines=Hi+this+is+Ketki!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Neonderthaw&size=40&duration=2500&pause=1200&color=FF00FF&center=true&vCenter=true&width=900&lines=Hi+this+is+Ketki+Patil;Welcome+to+my+GitHub!)
+
+</div>
+
 
 
 <!--
