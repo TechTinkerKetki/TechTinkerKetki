@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=F75C7E&center=true&vCenter=true&lines=Hi+there!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 <!--
 **TechTinkerKetki/TechTinkerKetki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
